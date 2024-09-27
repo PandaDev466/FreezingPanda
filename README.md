@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... you dont :eye:
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... The world's largest roach (which lives in South America) is six inches long with a one-foot wingspan. 
+- ⚡ Fun fact: ... The world's largest roach (which lives in South America) is six inches long with a 20CM wingspan
+- 
 
 <!---
 FreezingPanda/FreezingPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
