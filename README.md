@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... GML and snake language (Python)
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... you dont :eye:
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... he/him, They/Them
 - ⚡ Fun fact: ... The world's largest roach (which lives in South America) is six inches long with a 20CM wingspan
 - 
 
