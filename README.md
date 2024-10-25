@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FreezingPanda
+- 👋 Hi, I’m @PandaDev.py
 - 👀 I’m interested in ... stuff (I know VERY specific)
 - 🌱 I’m currently learning ... GML and snake language (Python)
 - 💞️ I’m looking to collaborate on ... Nothing
