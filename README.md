@@ -6,7 +6,7 @@
 - 😄 Pronouns: ... he/him, They/Them
 - ⚡ Fun fact: ... The world's largest roach (which lives in South America) is six inches long with a 20CM wingspan
 - 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandadev.langs_count=4&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda.dev.langs_count=4&layout=compact)
 
 <!---
 FreezingPanda/FreezingPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
