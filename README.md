@@ -1,15 +1,10 @@
-- 👋 Hi, I’m @PandaDev.py
-- 👀 I’m interested in ... stuff (I know VERY specific)
-- 🌱 I’m currently learning ... GML and snake language (Python)
-- 💞️ I’m looking to collaborate on ... Nothing
-- 📫 How to reach me ... you dont :eye:
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... The world's largest roach (which lives in South America) is six inches long with a 20CM wingspan
-- 
+Python/GameMakerLanguage are my main languages. I also do webdev sometimes, I think CSS is cool.
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/142e0ff4-8990-44a3-985c-41e016eeafb2" />
+<p>A photo of my kitty car :)</p>
+Hey did you know the Github profile readme supports HTML tags?
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandadev466&langs_count=4&layout=compact)
 
 
-<!---
-FreezingPanda/FreezingPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
