@@ -5,6 +5,6 @@ Hey did you know the Github profile readme supports HTML tags?
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandadev466&langs_count=4&layout=compact)
+
 
 
